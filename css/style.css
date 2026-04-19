@@ -659,7 +659,7 @@ footer {
 /* --- Responsive --- */
 @media (max-width: 768px) {
     nav:not(.scrolled) {
-        background: transparent !important;
+        background:  rgba(251, 251, 248, 0.98);
         border-bottom: none;
     }
 
@@ -670,7 +670,6 @@ footer {
     nav:not(.scrolled) .logo,
     nav:not(.scrolled) .menu-toggle span {
         color: white;
-        background: white;
     }
 
     .menu-toggle {
