@@ -669,7 +669,7 @@ footer {
 
     nav:not(.scrolled) .logo,
     nav:not(.scrolled) .menu-toggle span {
-        color: white;
+        color: var(--logo-color);
     }
 
     .menu-toggle {
